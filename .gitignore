@@ -1,2 +1,7 @@
 .DS_Store
+
+# Data Files
 data/LC
+
+# Jupyter Notebook checkpoints
+/.ipynb_checkpoints
